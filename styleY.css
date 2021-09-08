@@ -6,7 +6,7 @@
 
 body
     {
-        background-color: blueviolet;
+        background-color: white;
     }
 
 
@@ -16,3 +16,15 @@ body
         font-family: 'Times New Roman', Times, serif;
         
     }
+
+    p
+        {
+            font-weight: 200;
+            font-family: monospace;
+
+        }
+
+        span
+            {
+                font-size: x-large;
+            }

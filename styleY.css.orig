@@ -27,7 +27,10 @@ body
         span
             {
                 font-size: x-large;
-                background-color: black;
+<<<<<<< HEAD
                 border: thin;
 
+=======
+                background-color: black;
+>>>>>>> 293c51218ed30a2ffbe11c4307dfaa7c0c57cefb
             }
